@@ -1,0 +1,8 @@
+{
+  "name": "NEXUS AI Operating System",
+  "description": "A futuristic JARVIS-style personal AI agent with natural voice conversation, multi-step planning, tool orchestration, and cognitive memory.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
